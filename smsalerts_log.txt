@@ -16,3 +16,4 @@
 2025-05-20 19:38:06 - ALERT: 192.168.1.1 - Port 443 is closed or host is unreachable: Router HTTPS
 2025-05-20 19:38:47 - ALERT: 192.168.1.1 - Port 80 is closed or host is unreachable: Router Local
 2025-05-20 19:38:57 - ALERT: 192.168.1.1 - Port 443 is closed or host is unreachable: Router HTTPS
+2025-06-03 19:42:03 - ALERT: 192.168.1.1 - Port 80 is closed or host is unreachable: Router Local

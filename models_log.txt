@@ -1,1 +1,2 @@
 [2025-05-27 20:44:38] ✅ models.py u ekzekutua me sukses!
+[2025-06-03 19:44:52] ✅ models.py u ekzekutua me sukses!
